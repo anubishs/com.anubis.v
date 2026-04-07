@@ -1,0 +1,10 @@
+{
+  "name": "com.anubis.v",
+  "version": "1.0.0",
+  "displayName": "Anubis vThings",
+  "unity": "6000.2",
+  "description": "vThings",
+  "author": {
+    "name": "Anubis Alves"
+  }
+}
